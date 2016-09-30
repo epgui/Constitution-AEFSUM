@@ -1,8 +1,6 @@
 # Constitution-AEFSUM
 La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 septembre 2016.
 
-# Table des matières
-
 ## [Chapitre 1 - Caractéristiques de l'association](Chapitre 1.md)
 
   1.  [Nom](Chapitre 1.md#11---nom)
@@ -25,10 +23,10 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
 
 ## [Chapitre 3 - Conseil administratif](Chapitre 3.md)
 
-  1.  Composition
-  2.  Responsabilité de représentation
-  3.  Pouvoirs et responsabilités du C.A.
-  4.  Réunions
+  1.  [Composition](Chapitre 3.md#31---composition)
+  2.  [Responsabilité de représentation](Chapitre 3.md#32---responsabilité-de-représentation)
+  3.  [Pouvoirs et responsabilités du C.A.](Chapitre 3.md#33---pouvoirs-et-responsabilités-du-CA)
+  4.  [Réunions](Chapitre 3.md#34---réunions)
 
 ## [Chapitre 4 - Représentant(e)s](Chapitre 4.md)
 
