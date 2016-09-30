@@ -2,6 +2,7 @@ Veuillez consulter la [table des matières](README.md).
 
 ## Chapitre 2 - Assemblée générale
 
+
 ### 2.1 - Assemblée générale
 
 a) Le terme «Assemblée générale (A. G.)» désigne toute réunion officielle des membres de l’Association avec le C. E.
@@ -26,6 +27,7 @@ j) Le président de l’association n’a pas le droit de vote, sauf en cas d’
 
 k) Les votes sont pris à la main levée à moins que 25% des membres présents demandent un vote secret.
 
+
 ### 2.2 - Assemblée générale annuelle
 
 a) Une A. G. devra être tenue dans les deux (2) semaines suivant le début des cours. Cette A. G. est l’Assemblée générale annuelle (A. G. A.).
@@ -33,6 +35,7 @@ a) Une A. G. devra être tenue dans les deux (2) semaines suivant le début des 
 b) L’A. G. A. est sujette aux modalités c) à l), inclusivement, de l’article 11.
 
 c) Le budget de l’Association devra être adopté à cette réunion.
+
 
 ### 2.3 - Assemblée générale spéciale
 
@@ -51,6 +54,7 @@ b) Le délai minimum de convocation pour une A. G. S. est de 24h au minimum.
 c) Une A. G. S. ne doit être convoquée que pour discuter d’un seul point.
 
 d) Lorsqu’une A. G. S. est demandée par 25% des membres, le C. A. peut, s’il le juge nécessaire, convoquer une assemblée générale à sa place.
+
 
 ### 2.4 - Pouvoirs
 

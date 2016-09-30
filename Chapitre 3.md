@@ -2,6 +2,7 @@ Veuillez consulter la [table des matières](README.md).
 
 ## Chapitre 3 - Conseil administratif
 
+
 ### 3.1 - Composition
 
 Sont membres du C. A. :
@@ -12,9 +13,11 @@ b) Les représentants.
 
 c) Les membres du conseil exécutif.
 
+
 ### 3.2 - Responsabilité de représentation
 
 Chaque département est responsable de sa représentation aux réunions du C. A. tout département absent des réunions du C. A. sans justification sera pénalisé selon la modalité 18e).
+
 
 ### 3.3 - Pouvoirs et responsabilités du C. A.
 
@@ -33,6 +36,7 @@ f) Approuver toute nomination faite par le C. E.
 g) Déterminer les prises de position officielles de l’Association.
 
 h) S’assurer que les membres de l’exécutif accomplissent bien leurs tâches.
+
 
 ### 3.4 - Réunions
 

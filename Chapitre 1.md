@@ -2,6 +2,7 @@ Veuillez consulter la [table des matières](README.md).
 
 ## Chapitre 1 - Caractéristiques de l'association
 
+
 ### 1.1 - Nom
 
 Les étudiants et étudiantes de la faculté des sciences du centre universitaire de Moncton sont regroupés sous le nom d’«Association Étudiante de la Faculté des Sciences de l’Université de Moncton, Inc.», ou sous forme abrégée, A. É. F. S. U. M., Inc.

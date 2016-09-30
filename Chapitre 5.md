@@ -2,6 +2,7 @@ Veuillez consulter la [table des matières](README.md).
 
 ## Chapitre 5 - Conseil exécutif
 
+
 ### 5.1 - Priorités
 
 a) Tous les efforts et décisions du C.E. doivent prendre en considération les buts de l’Association, tel que définis à l’article 5.
@@ -10,9 +11,11 @@ b) Le C.E. doit donner priorité aux intérêts de l’Association avant ceux d�
 
 c) Assurer la gestion quotidienne de l’Association.
 
+
 ### 5.2 - Composition
 
 Le C.E. est formé d’un président, d’un vice-président externe, vice-président académique, vice-président aux activités sociales, vice-président aux finances et un vice-président interne.
+
 
 ### 5.3 - Réunion du C.E.
 
@@ -24,11 +27,13 @@ c) Le président préside les réunions du C.E., mais conserve son droit de vote
 
 d) En cas d’égalité sur un vote, la motion sera rejetée.
 
+
 ### 5.4 - Éligibilité aux postes du C.E.
 
 a) Sont éligibles à un poste du C.E. tous membres de l’Association. Le président, le vice-président aux finances et le vice président aux activités sociales au minimum doivent avoir 19 révolus lors du premier jour de leur mandat, pour des raisons administratives.
 
 b) Les membres du C.E. ne peuvent occuper d’autre postes dans d’autre association étudiantes de l’Université de Moncton.
+
 
 ### 5.5 - Élection du C.E.
 
@@ -74,6 +79,7 @@ t) Le 1er avril sera la journée de passation des pouvoirs. Le mois d’avril se
 
 u) Les élections de tous les postes doivent avoir lieu selon les dates prescrites de cette présente, sauf en cas de démission ou destitution. Dans ce cas, le C.A. déterminera la date d’élection partielle.
 
+
 ### 5.6 - Mandat du C.E.
 
 Le mandat du C.E. est de :
@@ -84,11 +90,13 @@ b) Mettre en œuvre les décisions prises par le C.A. et les A.G.
 
 c) Offrir aux membres divers services.
 
+
 ### 5.7 - Terme du C.E.
 
 a) Le mandat de tous les membres du C.E. commence le 1er avril et se terminera le 31 mars suivant, sauf en cas de démission ou d’élections partielles.
 
 b) En cas d’élection partielle d’un des membres du C.E., le mandat de ce membre commence la journée après son élection, et ce termine le 31 mars suivant.
+
 
 ### 5.8 - Pouvoirs et responsabilités du président
 
@@ -130,6 +138,7 @@ q) Doit remettre un rapport de poste au secrétaire avant le 31 mars.
 
 r) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
+
 ### 5.9 - Pouvoir et responsabilités du vice-président interne
 
 Le vice-président interne:
@@ -158,6 +167,7 @@ k) Doit classer tout document officiel de l’Association.
 
 l) Doit voir à la bonne gestion de l’affichage étudiant dans la faculté tel que prescrit par l’administration de la faculté des sciences.
 
+
 ### 5.10 - Pouvoirs et responsabilité du vice-président académique
 
 Le vice-président académique:
@@ -173,6 +183,7 @@ d) Doit représenter l’Association aux réunions du CFS. En cas d’absence, i
 e) Doit remettre un rapport de poste au secrétaire avant le 31 mars.
 
 f) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
+
 
 ### 5.11 - Pouvoirs et responsabilités du trésorier
 
@@ -196,6 +207,7 @@ h) Doit remettre un rapport de poste au secrétaire avant le 31 mars.
 
 i) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
+
 ### 5.12 - Pouvoir et responsabilités du vice-président aux activités sociales
 
 Le vice-président aux activités sociales :
@@ -204,11 +216,13 @@ a) Assure l’organisation et la bonne exécution des activités sociales ponctu
 
 b) Collabore avec le vice président interne pour assurer le bon fonctionnement des activités sociales régulières.
 
+
 ### 5.13 - Cessation des pouvoirs
 
 a) Tout membre du C.E. sera automatiquement destitué après une absence d’une période excédent 31 jours durant l’année académique (du mois de septembre jusqu’au mois d’avril).
 
 b) Une élection partielle doit être tenue dans les quatre (4) semaines suivant la démission, destitution, révocation ou tout autre cessation de pouvoir d’un membre du C.E.. La date d’élection est déterminée par le C.A..
+
 
 ### 5.14 - Révocation des pouvoirs
 
