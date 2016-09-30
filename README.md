@@ -53,8 +53,8 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
 
 ## [Chapitre 6 - Affaires financières](Chapitre 6.md)
 
-  1.  Revenus
-  2.  Financement des conseils étudiants des départements
+  1.  [Revenus](Chapitre 6.md#61---revenus)
+  2.  [Financement des conseils étudiants des départements](Chapitre 6.md#62---financement-des-conseils-étudiants-des-départements)
 
 ## [Chapitre 7 - Règlements et politiques](Chapitre 7.md)
 
