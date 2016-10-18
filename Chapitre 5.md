@@ -65,7 +65,7 @@ m) Les affiches et autre matériel publicitaire devront être retirés au plus t
 
 n) Les deux journées de vote auront lieu sur deux journées fixés par le président d’élection de la semaine immédiatement après la semaine de campagne électorale.
 
-o) Le quorum de l’élection est fixé à 20% des membres de l’Association.
+o) Le quorum de l’élection est fixé à 20% des membres de l’Association. Les timbits ne peuvent pas voter.
 
 p) Un isoloir doit être fourni lors de l’élection, sauf si les élections sont faires par l’intermédiaire d’Internet.
 
