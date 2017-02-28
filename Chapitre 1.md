@@ -1,6 +1,6 @@
 Veuillez consulter la [table des matières](README.md).
 
-## Chapitre 1 - Caractéristiques de l'association
+## Chapitre 1 - Caractéristiques de l'<del>a</del>**A**ssociation
 
 
 ### 1.1 - Nom
@@ -41,13 +41,13 @@ a) Les buts de l’<del>a</del>**A**ssociation sont :
 
   1. De promouvoir et de faciliter de meilleures relations entre l’Association et la FÉÉCUM.
 
-  2. De promouvoir et de faciliter de meilleures relations entre l’association et les associations étudiantes des autres facultés et écoles.
+  2. De promouvoir et de faciliter de meilleures relations entre l’<del>a</del>**A**ssociation et les <del>a</del>**A**ssociations étudiantes des autres facultés et écoles.
 
   3. Regrouper les conseils étudiants des différents départements afin d’améliorer les relations entre ceux-ci.
 
   4. De promouvoir, d’appuyer et de protéger le statut, les droits et les intérêts des étudiants de la Faculté.
 
-  5. De promouvoir et de faciliter de meilleures relations entre l’association et le corps professoral de la Faculté.
+  5. De promouvoir et de faciliter de meilleures relations entre l’<del>a</del>**A**ssociation et le corps professoral de la Faculté.
 
   6. De fournir aux étudiants membres de l’Association un moyen de communication collectif.
 

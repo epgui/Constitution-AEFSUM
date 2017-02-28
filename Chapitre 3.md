@@ -16,7 +16,7 @@ c) Les membres du conseil exécutif.
 
 ### 3.2 - Responsabilité de représentation
 
-Chaque département est responsable de sa représentation aux réunions du C. A. tout département absent des réunions du C. A. sans justification sera pénalisé selon la modalité 18e).
+Chaque département est responsable de sa représentation aux réunions du C. A. tout département absent des réunions du C. A. sans justification sera pénalisé selon la modalité **18e)** **Encore une fois inexistant ou renommé _3.4e)_**.
 
 
 ### 3.3 - Pouvoirs et responsabilités du C. A.
@@ -27,7 +27,7 @@ b) Adopter, par intérim, toutes modifications à la présente. Ces modification
 
 c) Préparer, en collaboration avec le C.E., le budget provisoire et les rapports financiers.
 
-d) Former, abolir ou modifier les comités de l’Association.
+d) <del>Former</del> **remplacer Former par Créer**, abolir ou modifier **un ou** les comités de l’Association.
 
 e) Approuver les présidents des divers comités de l’Association.
 
@@ -44,21 +44,21 @@ a) Le C. A. devra se réunir au moins une (1) fois par mois pendant l’année a
 
 b) Les réunions du C. A. peuvent être convoquées par :
 
-  1. Le président de l’Association
+  1. Le président de l’Association **ou le vice-président interne avec l'accord du président**
 
   2. Trois (3) membres du C. E.
 
   3. La demande écrite des représentants de trois (3) conseils étudiants.
 
-c) Un avis de convocation accompagné de l’ordre du jour devra parvenir par courriel à tous les membres du C. A. au moins 48h avant la réunion.
+c) Un avis de convocation accompagné de l’ordre du jour devra parvenir par courriel à tous les membres du C. A. au moins 48h avant la réunion. **Le C. E. devrait aussi faire des efforts raisonnable pour aviser les membres de l'Association de la tenue d'un C. A.**
 
-d) Le quorum pour ces réunions est fixé à 50% +1 du total des membres votant possibles du C. A. et au moins le deux tiers des départements devra être présents, ainsi qu’un membre du C.E.. Si le quorum n’est pas atteint, la réunion sera ajournée à une date ultérieure.
+d) Le quorum pour ces réunions est fixé à **50% +1 à examiner 33% +1** du total des membres votant possibles du C. A. et au moins <del>le deux tiers des</del> **deux membres de chaque** départements devra être présents, ainsi qu’un membre du C.E.. Si le quorum n’est pas atteint, la réunion sera ajournée à une date ultérieure. <p>**Corrige les incohérences avec le paragraphe qui suit**</p>
 
 e) Le versement des cotisations d’un conseil étudiant sera suspendu après sa troisième absence non justifiée aux réunions du C. A. Si les cotisations ont déjà été versées, le montant total sera retenu de la prochaine cotisation.
 
-f) Les réunions du C.A. sont ouvertes à tous les membres et membres honoraires de l’association. Le C.A. peut également permettre la présence d’invités. Ces personnes auront droit de parole, mais pas le droit de vote.
+f) Les réunions du C.A. sont ouvertes à tous les membres et membres honoraires de l’<del>a</del>**A**ssociation.  Le C.A. peut également permettre la présence d’invités. Ces personnes auront droit de parole, mais pas le droit de vote.
 
-g) Lors de toute réunion, cinq (5) membres peuvent demander une délibération à huis clos. Cependant, aucun vote sur une proposition ne peut se faire à huis clos. Un résumé doit être donnée par le président d’assemblée à la sortie du huis clos.
+g) Lors de toute réunion, cinq (5) membres peuvent demander une délibération à huis clos. Cependant, aucun vote sur une proposition ne peut se faire à huis clos. Un résumé doit être donnée par le président d’assemblée à la sortie du huis clos.**Et si le président ne fait pas partie du huis clos?**
 
 h) Les points à l’ordre du jour sous «Varia» ne peuvent pas être votés.
 

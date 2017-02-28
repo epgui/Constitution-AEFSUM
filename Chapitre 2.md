@@ -23,7 +23,7 @@ h) Chaque conseil étudiant de la faculté est responsable de la représentation
 
 i) Les propositions soumises au vote seront acceptées ou rejetées selon la majorité des voix, la majorité étant définie comme 50% +1 des voix.
 
-j) Le président de l’association n’a pas le droit de vote, sauf en cas d’égalité.
+j) Le président de l’<del>a</del>Association n’a pas le droit de vote, sauf en cas d’égalité.
 
 k) Les votes sont pris à la main levée à moins que 25% des membres présents demandent un vote secret.
 
