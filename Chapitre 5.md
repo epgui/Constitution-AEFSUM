@@ -63,7 +63,8 @@ i) **Le président d'élections ouvrira immédiatement** <del>L</del>les mises e
 j) Les candidatures se posent par l'intermédiaire de lettres formelles adressées au président d’élections, avec l’appui d’au moins dix (10) membres de l’Association. Une confirmation de la réception doit être fournit au candidat.
 
 k) La campagne électoral sur une période de sept (7) jours débutant <del>au premier lundi suivant **le début de** la période de mise en candidature soit,</del> **le 8ieme jour de la période des mises en candidature.**
-<p>*Si un candidat veut se présenter le 14 ieme jour et mener une campagne de 1 journée c'est son problème*</p>
+
+*Si un candidat veut se présenter le 14 ieme jour et mener une campagne de 1 journée c'est son problème*
 
 l) Les candidats aux postes du conseil exécutif seront tenue de se présenter aux étudiantes de la Faculté et participer (s’il y a lieu) à un débat électoral au cours de la semaine de campagne électorale.
 
@@ -96,10 +97,12 @@ b) Mettre en œuvre les décisions prises par le C.A. et les A.G.
 
 c) Offrir aux membres divers services.
 
+**d) S'engager à respecter les priorités de l'Association comme énoncé à l'article 5.1.**
+
 
 ### 5.7 - Terme du C.E.
 
-a) Le mandat de tous les membres du C.E. commence le 1er avril et se terminera le 31 mars suivant, sauf en cas de démission ou d’élections partielles.
+a) Le mandat de tous les membres du C.E. commence le <del>1er avril</del> **jour de passation des pouvoirs** et se terminera <del>le 31 mars suivant</del> **de la même façon le lendemain de l'élection suivante, et au plus tard le 7 avril de l'année suivant le début du mandat d'un membre du C. E.**, sauf en cas de démission ou d’élections partielles. **Le mandat d'un membre du C. E. est donc d'au maximum 1 an 7 jours, mais renouvelable lors d'une nouvelle élection mené conformément à la présente.**
 
 b) En cas d’élection partielle d’un des membres du C.E., le mandat de ce membre commence la journée après son élection, et ce termine le 31 mars suivant.
 
