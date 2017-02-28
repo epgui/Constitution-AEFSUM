@@ -18,9 +18,9 @@ d) Le C.E. peut, avec approbation du C.A. nommer de nouveaux représentants pour
 e) Le C.E. peut, avec l’approbation du C.A., créer de nouveaux postes de représentants.
 
 
-### 4.2 - Représentant des premières années
+### 4.2 - Représentant**(e)** des premières années
 
-Le représentant des premières années :
+Le**(la)** représentant**(e)** des premières années :
 
 a) Est le porte-parole des étudiants de première année aux réunions du C.E. et du C.A.
 
@@ -34,13 +34,17 @@ e) Doit organiser au moins une (1) activité par semestre pour les étudiants de
 
 f) Doit s’assurer que sa prise de position ne représente pas son opinion personnelle, mais plutôt l’opinion des étudiants de première année.
 
-g) Doit remettre un rapport de poste au vice-président interne avant le 31 mars.
+<del>g) Doit remettre un rapport de poste au vice-président interne avant le 31 mars.</del>
+
+**g) Sera nommé ou élu au plus tard le 31 octobre et siégera de la date de sa nomination jusqu'au plus tard le 30 octobre de l'année suivante lors de la nomination ou de l'élection du nouveau représentant**
 
 h) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
-i) Doit être un étudiant de 1e année, ayant le support écrit d’au moins 20 étudiants de 1e année.
+i) Doit **obligatoirement** être un**(e)** étudiant**(e)** de 1e année, ayant le support écrit d’au moins 20 étudiants de 1e année.
 
-j) Sera nommé au plus tard le 31 octobre.
+<del>j) Sera nommé au plus tard le 31 octobre.</del>
+
+**j) Doit pleinement s'impliqué dans l'organisation des activités d'intégration et la promotion de l'implication para-académique.**
 
 
 ### 4.3 - Éligibilité
