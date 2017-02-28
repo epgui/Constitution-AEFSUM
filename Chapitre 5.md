@@ -45,43 +45,45 @@ a) Les membres du C.E. seront tous élus au suffrage universel des membres de l�
 
 b) L’ouverture du poste de président d’élections de la Faculté des Sciences a<del>u</del> lieu le premier lundi du mois de mars **et doit se poursuivre** sur une période de dix (10) jours ouvrables.
 
-c) Un président d’élections sera nommé par le président après entrevues, et la nomination devra être approuvée par le C.A.
+c) Un président d’élections sera nommé par le président après entrevues, et la nomination devra être approuvée par le C.A **le dixième jour de l'ouverture du poste.**
+*Toujours un jeudi*
 
 d) Le président d’élections doit être un étudiant de l’Université de Moncton.
 
 e) Le président d’élections ne peut poser sa candidature pour un des postes du conseil exécutif <del>ou des conseils des départements</del>, ni être membre du C.E.
 
-f) Pendant la période électoral, le président d’élection est l’autorité suprême en ce qui concerne les élections, à l’intérieur des limites permises par la présente. il peut consulter le manuel des politiques d’élections de la F.É.É.C.U.M., à sa discrétion. Le C.E. n’a pas l’autorité de renverser les décisions du président d’élection, mais peut le démettre de ses fonctions suivant l’approbation du C.A..
+f) Pendant la période électoral, le président d’élection est l’autorité suprême en ce qui concerne les élections, à l’intérieur des limites permises par la présente. il peut consulter le manuel des politiques d’élections de la FÉÉCUM., à sa discrétion. Le C.E. n’a pas l’autorité de renverser les décisions du président d’élection, mais peut le démettre de ses fonctions suivant l’approbation du C.A..
 
 g) Le président d’élections devra remettre un rapport d’élections au plus tard deux semaines après la tenu des élections.
 
 h) Un montant de 50.00$ sera remis au président d’élections après les élections, suite à la remise du rapport d’élections.
 
-i) **Le président d'élections ouvrira immédiatement** <del>L</del>les mises en candidature**,** <del>auront lieu le lundi de la semaine de la période d’élection de la F.É.É.C.U.M.</del> **le jour de sa nomination, et ce** pour une période de 14 jours.
+i) **Le président d'élections ouvrira immédiatement** <del>L</del>les mises en candidature**,** <del>auront lieu le lundi de la semaine de la période d’élection de la F.É.É.C.U.M.</del> **le jour de sa nomination, et ce** pour une période de 14 jours. *Corrige incohérence car cette année les élections FÉÉCUM ont lieu le lundi 27 février et mardi 28 février, il aurait donc fallu ouvrir le candidature le 27 février et faire la nomination du président d'élection le 6 mars, insensé puisque seul celui-ci peut accepter ou refuser une candidatrue*
 
 j) Les candidatures se posent par l'intermédiaire de lettres formelles adressées au président d’élections, avec l’appui d’au moins dix (10) membres de l’Association. Une confirmation de la réception doit être fournit au candidat.
 
-k) La campagne électoral sur une période de sept (7) jours débutant au premier lundi suivant la période de mise en candidature soit, le 8ieme jour des mises en candidature.
+k) La campagne électoral sur une période de sept (7) jours débutant <del>au premier lundi suivant **le début de** la période de mise en candidature soit,</del> **le 8ieme jour de la période des mises en candidature.**
+<p>*Si un candidat veut se présenter le 14 ieme jour et mener une campagne de 1 journée c'est son problème*</p>
 
 l) Les candidats aux postes du conseil exécutif seront tenue de se présenter aux étudiantes de la Faculté et participer (s’il y a lieu) à un débat électoral au cours de la semaine de campagne électorale.
 
-m) Les affiches et autre matériel publicitaire devront être retirés au plus tard le dimanche suivant la campagne électorale.
+m) Les affiches et autre matériel publicitaire devront être retirés au plus tard **deux jours (48h) après la fermeture du bureau de votes.**<del>le dimanche suivant la campagne électorale.</del>
 
-n) Les deux journées de vote auront lieu sur deux journées fixés par le président d’élection de la semaine immédiatement après la semaine de campagne électorale.
+n) Les deux journées de vote auront lieu sur deux journées fixés par le président d’élection <del>de la semaine immédiatement après la semaine de campagne électorale.</del> **débutant le premier lundi suivant la fin des mises en candidature.**
 
-o) Le quorum de l’élection est fixé à 20% des membres de l’Association. Les timbits et les fraises ne peuvent pas voter.
+o) Le quorum de l’élection est fixé à 20% des membres de l’Association. <del>Les timbits et les fraises ne peuvent pas voter.</del>
 
-p) Un isoloir doit être fourni lors de l’élection, sauf si les élections sont faires par l’intermédiaire d’Internet.
+p) Un isoloir doit être fourni lors de l’élection, sauf si les élections sont fai<del>r</del>**t**es par l’intermédiaire d’Internet.
 
 q) Lors du décompte ou d’un recompte des votes, les compteurs seront nommés par le président d’élections et doivent être membres de l’Association.
 
-r) Chaque candidat pourra avoir un témoin de leur choix présent lors du décompte ou d’un recompte des votes, s’il le désire.
+r) Chaque candidat pourra avoir un témoin de leur choix présent lors du décompte ou d’un recompt<del>e</del>**age** des votes, s’il le désire.
 
-s) La demande d’un recompte doit se faire dans les 24 heures suivant le résultat officielle des élections.
+s) La demande d’un recompt<del>e</del>**age** doit se faire dans les 24 heures suivant le résultat officielle des élections.
 
-t) Le 1er avril sera la journée de passation des pouvoirs. Le mois d’avril servira comme période de transition au cours de laquelle l’ancien et le nouveau C.E. pour parler de dossiers courants et de tout autre sujet pertinent.
+t) Le <del>1er avril</del>**lendemain de la fermeture du bureau de votes** sera la journée de passation des pouvoirs. Le mois d’avril servira comme période de transition au cours de laquelle l’ancien et le nouveau C.E. **se rencontrerons** pour parler de dossiers courants et de tout autre sujet pertinent.
 
-u) Les élections de tous les postes doivent avoir lieu selon les dates prescrites de cette présente, sauf en cas de démission ou destitution. Dans ce cas, le C.A. déterminera la date d’élection partielle.
+u) Les élections de tous les postes doivent avoir lieu <del>selon</del> **au** <del>les</del> dates prescrites <del>de</del>**selon** cette présente, sauf en cas de démission ou destitution. Dans ce cas, le C.A. déterminera la date d’élection partielle.
 
 
 ### 5.6 - Mandat du C.E.
