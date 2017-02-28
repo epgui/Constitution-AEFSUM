@@ -5,21 +5,25 @@ Veuillez consulter la [table des matières](README.md).
 
 ### 5.1 - Priorités
 
-a) Tous les efforts et décisions du C.E. doivent prendre en considération les buts de l’Association, tel que définis à l’article 5.
+a) Tous les efforts et décisions du C.E. doivent prendre en considération les buts de l’Association, tel que définis à l’article **1.**5.
 
 b) Le C.E. doit donner priorité aux intérêts de l’Association avant ceux d’organismes externes à l’Association.
 
 c) Assurer la gestion quotidienne de l’Association.
 
+**d) Remplir chaque année le rapport annuel de l'Association au mois d'anniversaire de cette dernière, soit le 8ieme mois de chaque année, ceci afin d'éviter la conséquence du point e).**
+
+**e) Évitez la dissolution de l'Association.**
+
 
 ### 5.2 - Composition
 
-Le C.E. est formé d’un président, d’un vice-président externe, vice-président académique, vice-président aux activités sociales, vice-président aux finances et un vice-président interne.
+Le C.E. est formé d’un président, <del>d’un</del> vice-président externe, vice-président académique, vice-président aux activités sociales, vice-président aux finances et <del>un</del> vice-président interne.
 
 
 ### 5.3 - Réunion du C.E.
 
-a) Le C.E. devra se réunir au moins une (1) fois par semaine.
+a) Le C.E. devra se réunir au moins une (1) fois par **(2)** semaine.
 
 b) Le C.E. se réserve le droit de tenir ses réunions en privé.
 
@@ -30,22 +34,22 @@ d) En cas d’égalité sur un vote, la motion sera rejetée.
 
 ### 5.4 - Éligibilité aux postes du C.E.
 
-a) Sont éligibles à un poste du C.E. tous membres de l’Association. Le président, le vice-président aux finances et le vice président aux activités sociales au minimum doivent avoir 19 révolus lors du premier jour de leur mandat, pour des raisons administratives.
+a) Sont éligibles à un poste du C.E. tous membres de l’Association. Le président, le vice-président aux finances et le vice président aux activités sociales au minimum doivent avoir 19 **ans** révolus lors du premier jour de leur mandat, pour des raisons administratives.
 
-b) Les membres du C.E. ne peuvent occuper d’autre postes dans d’autre association étudiantes de l’Université de Moncton.
+b) Les membres du C.E. ne peuvent occuper d’autre postes dans d’autre <del>a</del>**A**ssociation étudiantes de l’Université de Moncton.
 
 
 ### 5.5 - Élection du C.E.
 
 a) Les membres du C.E. seront tous élus au suffrage universel des membres de l’Association au vote majoritaire à un tour.
 
-b) L’ouverture du poste de président d’élections de la Faculté des Sciences au lieu le premier lundi du mois de mars sur une période de dix (10) jours ouvrables.
+b) L’ouverture du poste de président d’élections de la Faculté des Sciences a<del>u</del> lieu le premier lundi du mois de mars **et doit se poursuivre** sur une période de dix (10) jours ouvrables.
 
 c) Un président d’élections sera nommé par le président après entrevues, et la nomination devra être approuvée par le C.A.
 
 d) Le président d’élections doit être un étudiant de l’Université de Moncton.
 
-e) Le président d’élections ne peut poser sa candidature pour un des postes du conseil exécutif ou des conseils des départements, ni être membre du C.E.
+e) Le président d’élections ne peut poser sa candidature pour un des postes du conseil exécutif <del>ou des conseils des départements</del>, ni être membre du C.E.
 
 f) Pendant la période électoral, le président d’élection est l’autorité suprême en ce qui concerne les élections, à l’intérieur des limites permises par la présente. il peut consulter le manuel des politiques d’élections de la F.É.É.C.U.M., à sa discrétion. Le C.E. n’a pas l’autorité de renverser les décisions du président d’élection, mais peut le démettre de ses fonctions suivant l’approbation du C.A..
 
@@ -53,11 +57,11 @@ g) Le président d’élections devra remettre un rapport d’élections au plus
 
 h) Un montant de 50.00$ sera remis au président d’élections après les élections, suite à la remise du rapport d’élections.
 
-i) Les mises en candidature auront lieu le lundi de la semaine de la période d’élection de la F.É.É.C.U.M. pour une période de 14 jours.
+i) **Le président d'élections ouvrira immédiatement** <del>L</del>les mises en candidature**,** <del>auront lieu le lundi de la semaine de la période d’élection de la F.É.É.C.U.M.</del> **le jour de sa nomination, et ce** pour une période de 14 jours.
 
 j) Les candidatures se posent par l'intermédiaire de lettres formelles adressées au président d’élections, avec l’appui d’au moins dix (10) membres de l’Association. Une confirmation de la réception doit être fournit au candidat.
 
-k) La campagne électoral sur une période de sept (7) jours débutant au premier lundi suivant la période de mise en candidature.
+k) La campagne électoral sur une période de sept (7) jours débutant au premier lundi suivant la période de mise en candidature soit, le 8ieme jour des mises en candidature.
 
 l) Les candidats aux postes du conseil exécutif seront tenue de se présenter aux étudiantes de la Faculté et participer (s’il y a lieu) à un débat électoral au cours de la semaine de campagne électorale.
 
