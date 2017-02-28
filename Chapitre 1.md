@@ -5,7 +5,7 @@ Veuillez consulter la [table des matières](README.md).
 
 ### 1.1 - Nom
 
-Les étudiants et étudiantes de la faculté des sciences du centre universitaire de Moncton sont regroupés **et incorporés** sous le nom d’«Association Étudiante de la Faculté des Sciences de l’Université de Moncton, Inc.», ou sous forme abrégée, **AEFSUM, Inc., AÉFSUM, Inc ou encore** A.E.F.S.U.M, Inc.
+Les étudiants et étudiantes de la faculté des sciences du centre universitaire de Moncton sont regroupés **et incorporés** sous le nom d’«Association Étudiante de la Faculté des Sciences de l’Université de Moncton, Inc.», ou sous forme abrégée, **AEFSUM, Inc., AÉFSUM, Inc ou encore** A.É.F.S.U.M, Inc.
 
 
 ### 1.2 - Langue officielle

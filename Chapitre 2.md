@@ -9,7 +9,7 @@ a) Le terme «Assemblée générale (A. G.)» désigne toute réunion officielle
 
 b) Une A. G. doit être convoquée par le président de l’Association si trois (3) membres du C.E. ou les deux tiers du C. A. en font la demande.
 
-c) La convocation d’une A. G. devra se faire au moins une (1) semaine avant sa tenue par affichage public au travers de la Faculté ainsi que par un courriel envoyé à l’ensemble des membres de l’Association.
+c) La convocation d’une A. G. devra se faire au moins une (1) semaine avant sa tenue par affichage public **sur Facebook ou** au travers de la Faculté ainsi que par un courriel envoyé à l’ensemble des membres de l’Association.
 
 d) Tous les étudiants ont le droit de présence. L’assemblée peut voter pour exclure les individus n’étant pas membres de l’Association.
 
@@ -17,7 +17,7 @@ e) Seuls les membres de l’Association ont le droit de vote.
 
 f) Le quorum pour l’assemblée générale est fixé à 5% des membres de l’Association si le quorum n’est pas atteint après 30 minutes suivant le moment fixé pour le début de l’A. G., l’A. G. sera ajournée à une date ultérieure.
 
-g) À la reprise d’une A. G. qui à été ajournée, il est permis d’ajouter des points à l’ordre du jour de l’assemblée initiale. Les membres de l’Association devront être avertis de la reprise de l’A. G. selon les modalités de l’Article 11c).
+g) À la reprise d’une A. G. qui à été ajournée, il est permis d’ajouter des points à l’ordre du jour de l’assemblée initiale. Les membres de l’Association devront être avertis de la reprise de l’A. G. selon les modalités **de l’Article 11c). <p>Article inexistant ou bien article présent mais plutot appelé 2.1c)</p>**
 
 h) Chaque conseil étudiant de la faculté est responsable de la représentation de son département aux A. G. L’absence notable non justifiée d’un département à une A. G. entrainera, la suspension du versement des cotisations à ce département pour l’année. Si les cotisations ont déjà été versées, le montant total sera retenu de la prochaine cotisation.
 
@@ -32,14 +32,14 @@ k) Les votes sont pris à la main levée à moins que 25% des membres présents 
 
 a) Une A. G. devra être tenue dans les deux (2) semaines suivant le début des cours. Cette A. G. est l’Assemblée générale annuelle (A. G. A.).
 
-b) L’A. G. A. est sujette aux modalités c) à l), inclusivement, de l’article 11.
+b) L’A. G. A. est sujette aux modalités c) à l), inclusivement, **<del>de l’article 11.</del>** **Même chose, acticle 2.1c) à l)**
 
 c) Le budget de l’Association devra être adopté à cette réunion.
 
 
 ### 2.3 - Assemblée générale spéciale
 
-Une assemblée générale spéciale (A. G. S.) est sujette aux modalités de l’article 11, sauf pour les points suivants :
+Une assemblée générale spéciale (A. G. S.) est sujette aux modalités de <del>l’article 11</del>**l'article 2.1**, sauf pour les points suivants :
 
 a) Une A. G. S. peut être convoquée par :
 
@@ -58,7 +58,7 @@ d) Lorsqu’une A. G. S. est demandée par 25% des membres, le C. A. peut, s’i
 
 ### 2.4 - Pouvoirs
 
-Les A. G. forment l’autorité suprême de l’Association. À ce titre elles :
+Les <del>A. G.</del> **assemblées générales (A. G.)** forment l’autorité suprême de l’Association. À ce titre elles :
 
 a) Déterminent les grandes orientations de l’Association.
 
