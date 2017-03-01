@@ -185,7 +185,7 @@ a) Est responsable des dossiers concernant les aspects académiques de l’Assoc
 
 b) Se rapporte directement au président et doit informer le C.A. et le président de ses activités.
 
-c) Doit remplacer le président lors de ses absences.** Devrait-on donner cette responsabilité au vp-interne puisque normalement c'est le vp-interne qui est en charge des services de l'Association?**
+c) Doit remplacer le président lors de ses absences. ** Devrait-on donner cette responsabilité au vp-interne ou externe puisque normalement c'est le vp-interne qui est en charge des services de l'Association? mais le vp-externe qui représente l'Association à la FÉÉCUM **
 
 d) Doit représenter l’Association aux réunions du CFS **(définir CFS -Conseil Faculté des Sciences)**. En cas d’absence, il devra s’assurer d’être remplacé par un membre du C.E., ou sinon du C.A..
 
@@ -226,14 +226,33 @@ a) Assure l’organisation et la bonne exécution d**'**<del>es</del>activités 
 b) Collabore avec le vice**-**président interne pour assurer le bon fonctionnement des activités sociales régulières.
 
 
-### 5.13 - Cessation des pouvoirs
+### 5.13 - Pouvoir et responsabilités du vice-président externe ***Nouveau***
+
+a) Est responsable des dossiers concernant les services offerts par la FÉÉCUM à l'Association.
+
+b) Se rapporte directement au président et doit informer le C.A. et le président de ses activités.
+
+c) Doit informer le vice-président <del>des</del> **aux** finances de tous transaction financière faite au nom de l’Association.
+
+d) Doit remettre un rapport de poste au <del>secrétaire</del> **nouveau vice-président externe le jour de la passation des pouvoirs ou si réélu, doit présenter le rapport au nouveau C. E..** <del>avant le 31 mars.</del>
+
+e) Représente l'Association au C. A. de la FÉÉCUM et doit s'assurer que sa prise de position représente l’opinion de l’Association et non son opinion personnelle.
+
+f) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
+
+g) Doit remplacer le président lors de ses absences.
+
+h) Doit informer le C. A. de l'Association de tout projet, action et événement organisés par la FÉÉCUM.
+
+
+### 5.<del>13</del>**14** - Cessation des pouvoirs
 
 a) Tout membre du C.E. sera automatiquement destitué après une absence d’une période excédent 31 jours durant l’année académique (du mois de septembre jusqu’au mois d’avril).
 
 b) Une élection partielle doit être tenue dans les quatre (4) semaines suivant la démission, destitution, révocation ou tout autre cessation de pouvoir d’un membre du C.E.. La date d’élection est déterminée par le C.A..
 
 
-### 5.14 - Révocation des pouvoirs
+### 5.<del>14</del>**15** - Révocation des pouvoirs
 
 a) Le mandat d’un membre du C.A. ou du C.E. peut être révoqué suite à une résolution adoptée par les trois quarts des membres du C.A. ou par les deux tiers des membres de l’Association.
 
