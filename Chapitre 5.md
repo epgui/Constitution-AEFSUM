@@ -125,27 +125,27 @@ f) Doit présider les réunions du C.E. et du C.A..
 
 g) Doit préparer l’ordre du jour de toutes les réunions du C.E., du C.A., et des assemblées générales avec l’aide du vice-président interne.
 
-h) Doit représenter l’Association aux réunion du C.A. de la <del>F.É.É.C.U.M.</del>**FÉÉCUM**. En cas d’absence, il doit s’assurer d’être remplacé par un membre du C.E., ou sinon du C.A..
+<del>h) Doit représenter l’Association aux réunion du C.A. de la <del>F.É.É.C.U.M.</del>**FÉÉCUM**. En cas d’absence, il doit s’assurer d’être remplacé par un membre du C.E., ou sinon du C.A..</del>
 
-i) Doit présenter au C.A., à l’avance, les dossiers qu’il devra traiter en tant que leur représentant. Lorsqu’une consultation du C.A., n’est pas possible, il doit si possible consulter le C.E..
+h) Doit présenter au C.A., à l’avance, les dossiers qu’il devra traiter en tant que leur représentant. Lorsqu’une consultation du C.A., n’est pas possible, il doit si possible consulter le C.E..
 
-j) **Remplace le vice-président externe lorsque nécessaire et doit donc s'assurer** <del>Doit s’assurer</del> que sa prise de position au C.A. de la <del>F.É.É.C.U.M.</del>**FÉÉCUM** représente l’opinion de l’Association et non son opinion personnelle.
+i) **Remplace le vice-président externe lorsque nécessaire et doit donc s'assurer** <del>Doit s’assurer</del> que sa prise de position au C.A. de la <del>F.É.É.C.U.M.</del>**FÉÉCUM** représente l’opinion de l’Association et non son opinion personnelle.
 
-k) Doit présenter un exposé de ses activités à chaque réunion du C.A..
+j) Doit présenter un exposé de ses activités à chaque réunion du C.A..
 
-l) Doit signer tout document officiel de l’Association.
+k) Doit signer tout document officiel de l’Association.
 
-m) Doit signer, avec le <del>trésorier</del> **vice-président aux finances**, les chèques de l’Association.
+l) Doit signer, avec le <del>trésorier</del> **vice-président aux finances**, les chèques de l’Association.
 
-n) Doit informer le <del>trésorier</del> **vice-président aux finances** de toute transaction financière faite au nom de l’Association.
+m) Doit informer le <del>trésorier</del> **vice-président aux finances** de toute transaction financière faite au nom de l’Association.
 
-o) Doit voir à ce que les tâches confiées au C.E. par le C.A. soient mises à terme.
+n) Doit voir à ce que les tâches confiées au C.E. par le C.A. soient mises à terme.
 
-p) Doit faciliter la transition avec le nouveau C.E..
+o) Doit faciliter la transition avec le nouveau C.E..
 
-q) Doit remettre un rapport de poste au <del>secrétaire avant le 31 mars</del> **nouveau président le jour de la passation des pouvoirs ou si réélu, doit présenter le rapport au nouveau C. E..**
+p) Doit remettre un rapport de poste au <del>secrétaire avant le 31 mars</del> **nouveau président le jour de la passation des pouvoirs ou si réélu, doit présenter le rapport au nouveau C. E..**
 
-r) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
+q) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
 
 ### 5.9 - Pouvoir et responsabilités du vice-président interne
