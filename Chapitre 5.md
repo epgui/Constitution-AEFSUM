@@ -102,9 +102,9 @@ c) Offrir aux membres divers services.
 
 ### 5.7 - Terme du C.E.
 
-a) Le mandat de tous les membres du C.E. commence le <del>1er avril</del> **jour de passation des pouvoirs** et se terminera <del>le 31 mars suivant</del> **de la même façon le lendemain de l'élection suivante, et au plus tard le 7 avril de l'année suivant le début du mandat d'un membre du C. E.**, sauf en cas de démission ou d’élections partielles. **Le mandat d'un membre du C. E. est donc d'au maximum 1 an 7 jours, mais renouvelable lors d'une nouvelle élection mené conformément à la présente.**
+a) Le mandat de tous les membres du C.E. commence le <del>1er avril</del> **jour de passation des pouvoirs** et se terminera <del>le 31 mars suivant</del> **de la même façon le lendemain de l'élection suivante, et au plus tard le 7 avril de l'année suivant le début du mandat d'un membre du C. E.**, sauf en cas de démission ou d’élections partielles. **Le mandat d'un membre du C. E. est donc d'au maximum 1 an 7 jours, mais renouvelable lors d'une nouvelle élection menée conformément à la présente.**
 
-b) En cas d’élection partielle d’un des membres du C.E., le mandat de ce membre commence la journée après son élection, et ce termine le 31 mars suivant.
+b) En cas d’élection partielle d’un des membres du C.E., le mandat de ce membre commence la journée après son élection, et <del>c</del>**s**e termine <del>le 31 mars suivant</del> **en même temps que celui des autres membres du C. E..**
 
 
 ### 5.8 - Pouvoirs et responsabilités du président
@@ -117,7 +117,7 @@ b) Est le porte-parole officiel de l’Association.
 
 c) Est le représentant officiel de l’Association à l’extérieur de la Faculté.
 
-d) Doit s’assurer que la présentant officiel de l’Association à l’extérieur de la Faculté.
+d) Doit s’assurer que la présentant officiel de l’Association à l’extérieur de la Faculté.**???**
 
 e) Doit s’assurer que la présente soit expliquée aux membres du conseil exécutif et qu’elle soit respectée par ceux-ci.
 
@@ -125,25 +125,25 @@ f) Doit présider les réunions du C.E. et du C.A..
 
 g) Doit préparer l’ordre du jour de toutes les réunions du C.E., du C.A., et des assemblées générales avec l’aide du vice-président interne.
 
-h) Doit représenter l’Association aux réunion du C.A. de la F.É.É.C.U.M.. En cas d’absence, il doit s’assurer d’être remplacé par un membre du C.E., ou sinon du C.A..
+h) Doit représenter l’Association aux réunion du C.A. de la <del>F.É.É.C.U.M.</del>**FÉÉCUM**. En cas d’absence, il doit s’assurer d’être remplacé par un membre du C.E., ou sinon du C.A..
 
 i) Doit présenter au C.A., à l’avance, les dossiers qu’il devra traiter en tant que leur représentant. Lorsqu’une consultation du C.A., n’est pas possible, il doit si possible consulter le C.E..
 
-j) Doit s’assurer que sa prise de position au C.A. de la F.É.É.C.U.M. représente l’opinion de l’Association et non son opinion personnelle.
+j) **Remplace le vice-président externe lorsque nécessaire et doit donc s'assurer** <del>Doit s’assurer</del> que sa prise de position au C.A. de la <del>F.É.É.C.U.M.</del>**FÉÉCUM** représente l’opinion de l’Association et non son opinion personnelle.
 
 k) Doit présenter un exposé de ses activités à chaque réunion du C.A..
 
 l) Doit signer tout document officiel de l’Association.
 
-m) Doit signer, avec le trésorier, les chèques de l’Association.
+m) Doit signer, avec le <del>trésorier</del> **vice-président aux finances**, les chèques de l’Association.
 
-n) Doit informer le trésorier de toute transaction financière faite au nom de l’Association.
+n) Doit informer le <del>trésorier</del> **vice-président aux finances** de toute transaction financière faite au nom de l’Association.
 
 o) Doit voir à ce que les tâches confiées au C.E. par le C.A. soient mises à terme.
 
 p) Doit faciliter la transition avec le nouveau C.E..
 
-q) Doit remettre un rapport de poste au secrétaire avant le 31 mars.
+q) Doit remettre un rapport de poste au <del>secrétaire avant le 31 mars</del> **nouveau président le jour de la passation des pouvoirs ou si réélu, doit présenter le rapport au nouveau C. E..**
 
 r) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
@@ -156,11 +156,11 @@ a) Est responsable des dossiers concernant les services de l’Association.
 
 b) Se rapporte directement au président et doit informer le C.A. et le président de ses activités.
 
-c) Doit informer le vice-président des finances de tous transaction financière faite au nom de l’Association.
+c) Doit informer le vice-président <del>des</del> **aux** finances de tous transaction financière faite au nom de l’Association.
 
-d) Doit remettre un rapport d’activité au secrétaire au plus tard trois semaines après la tenue de l’activité.
+d) Doit remettre un rapport d’activité au <del>secrétaire</del> au plus tard trois semaines après la tenue de l’activité.
 
-e) Doit remettre un rapport de poste au secrétaire avant le 31 mars.
+e) Doit remettre un rapport de poste au <del>secrétaire</del> **nouveau vice-président interne le jour de la passation des pouvoirs ou si réélu, doit présenter le rapport au nouveau C. E..** <del>avant le 31 mars.</del>
 
 f) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
@@ -170,7 +170,7 @@ h) Agit comme personne ressource pour les conseils étudiants des départements.
 
 i) Doit assurer une communication efficace entre l’Association et ses membres.
 
-j) Doit signer, avec le président, les procès verbaux doivent être présentés aux réunions suivantes.
+j) Doit signer, avec le président, les procès verbaux qui doivent être présentés aux réunions suivantes.
 
 k) Doit classer tout document officiel de l’Association.
 
@@ -185,24 +185,24 @@ a) Est responsable des dossiers concernant les aspects académiques de l’Assoc
 
 b) Se rapporte directement au président et doit informer le C.A. et le président de ses activités.
 
-c) Doit remplacer le président lors de ses absences.
+c) Doit remplacer le président lors de ses absences.** Devrait-on donner cette responsabilité au vp-interne puisque normalement c'est le vp-interne qui est en charge des services de l'Association?**
 
-d) Doit représenter l’Association aux réunions du CFS. En cas d’absence, il devra s’assurer d’être remplacé par un membre du C.E., ou sinon du C.A..
+d) Doit représenter l’Association aux réunions du CFS **(définir CFS -Conseil Faculté des Sciences)**. En cas d’absence, il devra s’assurer d’être remplacé par un membre du C.E., ou sinon du C.A..
 
-e) Doit remettre un rapport de poste au secrétaire avant le 31 mars.
+e) Doit remettre un rapport de poste au <del>secrétaire avant le 31 mars.</del> **nouveau vice-président académique le jour de la passation des pouvoirs ou si réélu, doit présenter le rapport au nouveau C. E..**
 
 f) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
 
-### 5.11 - Pouvoirs et responsabilités du trésorier
+### 5.11 - Pouvoirs et responsabilités du <del>trésorier</del> **vice-président aux finances**
 
-Le trésorier:
+Le <del>trésorier</del> **vice-président aux finances**:
 
 a) Est responsable des dossiers concernant les aspects financiers et légaux de l’Association.
 
 b) Se rapporte directement au président et doit informer le C.A. et le président de ses activités.
 
-c) Doit présenter un budget provisoire équilibré au C.A. avant le 30 septembre.
+c) Doit présenter un budget provisoire équilibré au C.A. avant le 30 septembre.**Réaliste?**
 
 d) Doit présenter un état financier au C.A. avant le 31 décembre.
 
@@ -212,7 +212,7 @@ f) Doit tenir les livres à jour.
 
 g) Doit signer, avec le président, les chèques de l’Association.
 
-h) Doit remettre un rapport de poste au secrétaire avant le 31 mars.
+h) Doit remettre un rapport de poste au <del>secrétaire avant le 31 mars.</del> **nouveau vice-président aux fiances le jour de la passation des pouvoirs ou si réélu, doit présenter le rapport au nouveau C. E..**
 
 i) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
@@ -221,9 +221,9 @@ i) Doit remplir tout devoir et responsabilité que peut lui assigner le C.A..
 
 Le vice-président aux activités sociales :
 
-a) Assure l’organisation et la bonne exécution des activités sociales ponctuelles.
+a) Assure l’organisation et la bonne exécution d**'**<del>es</del>activités sociales ponctuelles.
 
-b) Collabore avec le vice président interne pour assurer le bon fonctionnement des activités sociales régulières.
+b) Collabore avec le vice**-**président interne pour assurer le bon fonctionnement des activités sociales régulières.
 
 
 ### 5.13 - Cessation des pouvoirs
@@ -237,10 +237,12 @@ b) Une élection partielle doit être tenue dans les quatre (4) semaines suivant
 
 a) Le mandat d’un membre du C.A. ou du C.E. peut être révoqué suite à une résolution adoptée par les trois quarts des membres du C.A. ou par les deux tiers des membres de l’Association.
 
-a) Si un membre du C.A. ou du C.E. commet une action qui va à l’encontre des buts et objectifs de l’Association.
+<del>a)</del> Si **:**
 
-b) Si un membre est absent à une réunion régulière sans une absence motivée.
+**i)** <del>u</del>**U**n membre du C.A. ou du C.E. commet une action qui va à l’encontre des buts et objectifs de l’Association.
 
-c) Si un membre manque à ses engagements tels que décrits dans la présente.
+<del>b</del>**ii**) Si un membre est absent à une réunion régulière sans une absence motivée.
+
+<del>c</del>**iii**) Si un membre manque à ses engagements tels que décrits dans la présente.
 
 b) La révocation du mandat d’un membre du C.A. ou du C.E. lors d’une réunion du C.A. doit figurer à l’ordre du jour.
