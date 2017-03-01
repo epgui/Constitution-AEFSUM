@@ -5,7 +5,7 @@ Veuillez consulter la [table des matières](README.md).
 
 ### 5.1 - Priorités
 
-a) Tous les efforts et décisions du C.E. doivent prendre en considération les buts de l’Association, tel que définis à l’article **1.**5.
+a) Tous les efforts et décisions du C.E. doivent prendre en considération les buts de l’Association, tel que définis à l’article **1** .5.
 
 b) Le C.E. doit donner priorité aux intérêts de l’Association avant ceux d’organismes externes à l’Association.
 

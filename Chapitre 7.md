@@ -19,9 +19,10 @@ b) La présente peut être modifiée, par intérim, par un vote des deux tiers d
 
 ### 7.3 - Procédure parlementaires
 
-Les procédures parlementaires en vigueur sont celles de l’édition la plus récente du code Morin, sauf lors d’une indication contraire de la présente.
+Les procédures parlementaires en vigueur sont celles de l’édition la plus récente du code Morin, sauf lors d’une indication contraire <del>de</del> **à** la présente.
 
 
 ### 7.4 - Entrée en vigueur
+**À modifier au C. A. selon l'éventualité**
 
-La présente constitution de l’Association Étudiante de la Faculté des Sciences de l’Université de Moncton, inc. est la seul en vigueur. Cette constitution a été adoptée par intérim par le C.A. le lundi 10 septembre 2007, et amendée par le C.A. le 1er octobre 2007. Elle a été devra être acceptée ou rejetée par l’ensemble des membres de l’Association lors d’une l’Assemblée Générale avant le lundi 10 septembre 2008. Elle est entrée en vigueur immédiatement après la réunion du lundi 10 septembre 2007 et le demeurera jusqu’à modification, ou jusqu’au vote de l’Assemblée Générale si elle la rejette.
+La présente constitution de l’Association Étudiante de la Faculté des Sciences de l’Université de Moncton, inc. est la seul en vigueur. Cette constitution a été adoptée par intérim par le C.A. le lundi 10 septembre 2007, et amendée par le C.A. le 1er octobre 2007. Elle <del>a été</del> devra être acceptée ou rejetée par l’ensemble des membres de l’Association lors d’une l’Assemblée Générale avant le lundi 10 septembre 2008. Elle est entrée en vigueur immédiatement après la réunion du lundi 10 septembre 2007 et le demeurera jusqu’à modification, ou jusqu’au vote de l’Assemblée Générale si elle la rejette.
