@@ -24,5 +24,5 @@ Les procédures parlementaires en vigueur sont celles de l’édition la plus r�
 
 ### 7.4 - Entrée en vigueur
 **À modifier au C. A. selon l'éventualité**
-
+*La constitution a été ouverte lors de l'AGA le 14 septembre 2016*
 La présente constitution de l’Association Étudiante de la Faculté des Sciences de l’Université de Moncton, inc. est la seul en vigueur. Cette constitution a été adoptée par intérim par le C.A. le lundi 10 septembre 2007, et amendée par le C.A. le 1er octobre 2007. Elle <del>a été</del> devra être acceptée ou rejetée par l’ensemble des membres de l’Association lors d’une l’Assemblée Générale avant le lundi 10 septembre 2008. Elle est entrée en vigueur immédiatement après la réunion du lundi 10 septembre 2007 et le demeurera jusqu’à modification, ou jusqu’au vote de l’Assemblée Générale si elle la rejette.
