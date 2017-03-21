@@ -5,7 +5,7 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
 ## [Chapitre 1 - Caractéristiques de l'association](Chapitre 1.md)
 
   1.  [Nom](https://github.com/epgui/Constitution-AEFSUM/blob/master/Chapitre%201.md#11---nom)
-  2.  [Langue officielle](https://github.com/epgui/Constitution-AEFSUM/blob/master/Chapitre 1.md#12---langue-officielle)
+  2.  [Langue officielle](Chapitre 1.md#12---langue-officielle)
   3.  [Siège social](Chapitre 1.md#13---siège-social)
   4.  [Interprétation](Chapitre 1.md#14---interprétation)
   5.  [Buts de l'association](Chapitre 1.md#15---buts-de-lassociation)
