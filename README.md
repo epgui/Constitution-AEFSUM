@@ -24,7 +24,7 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
   4.  [Pouvoirs](Chapitre%202.md#24---pouvoirs)
 
 
-## [Chapitre 3 - Conseil administratif](Chapitre 3.md)
+## [Chapitre 3 - Conseil administratif](Chapitre%203.md)
 
   1.  [Composition](Chapitre 3.md#31---composition)
   2.  [Responsabilité de représentation](Chapitre 3.md#32---responsabilité-de-représentation)
@@ -32,14 +32,14 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
   4.  [Réunions](Chapitre 3.md#34---réunions)
 
 
-## [Chapitre 4 - Représentant(e)s](Chapitre 4.md)
+## [Chapitre 4 - Représentant(e)s](Chapitre%204.md)
 
   1.  [Représentants](Chapitre 4.md#41---représentants)
   2.  [Représentant des premières années](Chapitre 4.md#42---représentant-des-premières-années)
   3.  [Éligibilité](Chapitre 4.md#43---éligibilité)
 
 
-## [Chapitre 5 - Conseil exécutif](Chapitre 5.md)
+## [Chapitre 5 - Conseil exécutif](Chapitre%205.md)
 
   1.  [Priorités](Chapitre 5.md#51---priorités)
   2.  [Composition](Chapitre 5.md#52---composition)
@@ -57,13 +57,13 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
   14. [Bourses](Chapitre 5.md#514---bourses)
 
 
-## [Chapitre 6 - Affaires financières](Chapitre 6.md)
+## [Chapitre 6 - Affaires financières](Chapitre%206.md)
 
   1.  [Revenus](Chapitre 6.md#61---revenus)
   2.  [Financement des conseils étudiants des départements](Chapitre 6.md#62---financement-des-conseils-étudiants-des-départements)
 
 
-## [Chapitre 7 - Règlements et politiques](Chapitre 7.md)
+## [Chapitre 7 - Règlements et politiques](Chapitre%207.md)
 
   1.  [Politiques](Chapitre 7.md#71---politiques)
   2.  [Adoption et modification de la présente](Chapitre 7.md#72---adoption-et-modification-de-la-présente)
