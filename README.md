@@ -2,7 +2,7 @@
 La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 septembre 2016.
 
 
-## [Chapitre 1 - Caractéristiques de l'association](Chapitre 1.md)
+## [Chapitre 1 - Caractéristiques de l'association](Chapitre%201.md)
 
   1.  [Nom](https://github.com/epgui/Constitution-AEFSUM/blob/master/Chapitre%201.md#11---nom)
   2.  [Langue officielle](Chapitre 1.md#12---langue-officielle)
