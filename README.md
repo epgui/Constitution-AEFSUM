@@ -5,18 +5,18 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
 ## [Chapitre 1 - Caractéristiques de l'association](Chapitre%201.md)
 
   1.  [Nom](https://github.com/epgui/Constitution-AEFSUM/blob/master/Chapitre%201.md#11---nom)
-  2.  [Langue officielle](Chapitre 1.md#12---langue-officielle)
-  3.  [Siège social](Chapitre 1.md#13---siège-social)
-  4.  [Interprétation](Chapitre 1.md#14---interprétation)
-  5.  [Buts de l'association](Chapitre 1.md#15---buts-de-lassociation)
-  6.  [Pouvoirs](Chapitre 1.md#16---pouvoirs)
-  7.  [Membres](Chapitre 1.md#17---membres)
-  8.  [Conseils étudiants des départements](Chapitre 1.md#18---conseils-étudiants-des-départements)
-  9.  [Gouvernement](Chapitre 1.md#19---gouvernement)
-  10. [Structure générale](Chapitre 1.md#110---structure-générale)
+  2.  [Langue officielle](Chapitre%201.md#12---langue-officielle)
+  3.  [Siège social](Chapitre%201.md#13---siège-social)
+  4.  [Interprétation](Chapitre%201.md#14---interprétation)
+  5.  [Buts de l'association](Chapitre%201.md#15---buts-de-lassociation)
+  6.  [Pouvoirs](Chapitre%201.md#16---pouvoirs)
+  7.  [Membres](Chapitre%201.md#17---membres)
+  8.  [Conseils étudiants des départements](Chapitre%201.md#18---conseils-étudiants-des-départements)
+  9.  [Gouvernement](Chapitre%201.md#19---gouvernement)
+  10. [Structure générale](Chapitre%201.md#110---structure-générale)
 
 
-## [Chapitre 2 - Assemblée générale](Chapitre 2.md)
+## [Chapitre 2 - Assemblée générale](Chapitre%202.md)
 
   1.  [Assemblée générale](Chapitre 2.md#21---assemblée-générale)
   2.  [Assemblée générale annuelle](Chapitre 2.md#22---assemblée-générale-annuelle)
