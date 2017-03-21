@@ -18,10 +18,10 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
 
 ## [Chapitre 2 - Assemblée générale](Chapitre%202.md)
 
-  1.  [Assemblée générale](Chapitre 2.md#21---assemblée-générale)
-  2.  [Assemblée générale annuelle](Constitution-AEFSUM/blob/master/Chapitre 2.md#22---assemblée-générale-annuelle)
-  3.  [Assemblée générale spéciale](Chapitre 2.md#23---assemblée-générale-spéciale)
-  4.  [Pouvoirs](Chapitre 2.md#24---pouvoirs)
+  1.  [Assemblée générale](Chapitre%202.md#21---assemblée-générale)
+  2.  [Assemblée générale annuelle](Chapitre%202.md#22---assemblée-générale-annuelle)
+  3.  [Assemblée générale spéciale](Chapitre%202.md#23---assemblée-générale-spéciale)
+  4.  [Pouvoirs](Chapitre%202.md#24---pouvoirs)
 
 
 ## [Chapitre 3 - Conseil administratif](Chapitre 3.md)
