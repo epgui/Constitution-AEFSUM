@@ -36,8 +36,9 @@ d) En cas d’égalité sur un vote, la motion sera rejetée.
 
 a) Sont éligibles à un poste du C.E. tous membres de l’Association. Le président, le vice-président aux finances et le vice président aux activités sociales au minimum doivent avoir 19 **ans** révolus lors du premier jour de leur mandat, pour des raisons administratives.
 
-b) Les membres du C.E. ne peuvent occuper d’autre postes dans d’autre <del>a</del>**A**ssociation étudiantes de l’Université de Moncton.
+b) <del>Les membres du C.E. ne peuvent occuper d’autre postes dans d’autre <del>a</del>**A**ssociation étudiantes de l’Université de Moncton.</del>
 
+**De plus, les candidats ne peuvent pas occuper d'autres postes dans les conseils étudiants des départements de la Faculté des sciences, à la FÉÉCUM, à l'AÉÉICUM ou dans une association étudiante d'une autre faculté pour la durée de leur mandat.**
 
 ### 5.5 - Élection du C.E.
 
