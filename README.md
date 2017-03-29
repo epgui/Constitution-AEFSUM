@@ -26,22 +26,22 @@ La constitution de l'AEFSUM a été ouverte pour modifications à l'AGA du 14 se
 
 ## [Chapitre 3 - Conseil administratif](Chapitre%203.md)
 
-  1.  [Composition](Chapitre 3.md#31---composition)
-  2.  [Responsabilité de représentation](Chapitre 3.md#32---responsabilité-de-représentation)
-  3.  [Pouvoirs et responsabilités du C.A.](Chapitre 3.md#33---pouvoirs-et-responsabilités-du-CA)
-  4.  [Réunions](Chapitre 3.md#34---réunions)
+  1.  [Composition](Chapitre%203.md#31---composition)
+  2.  [Responsabilité de représentation](Chapitre%203.md#32---responsabilité-de-représentation)
+  3.  [Pouvoirs et responsabilités du C.A.](Chapitre%203.md#33---pouvoirs-et-responsabilités-du-CA)
+  4.  [Réunions](Chapitre%203.md#34---réunions)
 
 
 ## [Chapitre 4 - Représentant(e)s](Chapitre%204.md)
 
-  1.  [Représentants](Chapitre 4.md#41---représentants)
-  2.  [Représentant des premières années](Chapitre 4.md#42---représentant-des-premières-années)
-  3.  [Éligibilité](Chapitre 4.md#43---éligibilité)
+  1.  [Représentants](Chapitre%204.md#41---représentants)
+  2.  [Représentant des premières années](Chapitre%204.md#42---représentant-des-premières-années)
+  3.  [Éligibilité](Chapitre%204.md#43---éligibilité)
 
 
 ## [Chapitre 5 - Conseil exécutif](Chapitre%205.md)
 
-  1.  [Priorités](Chapitre 5.md#51---priorités)
+  1.  [Priorités](Chapitre%205.md#51---priorités)
   2.  [Composition](Chapitre 5.md#52---composition)
   3.  [Réunions du C.E.](Chapitre 5.md#53---réunions-du-CE)
   4.  [Éligibilité aux postes du C.E.](Chapitre 5.md#54---éligibilité-aux-postes-du-CE)
